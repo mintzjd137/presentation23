@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My Page</h1>
+
+<video width="560" controls>
+  <source src="your-video2.mp4" type="video/mp4">
+</video>
+
+</body>
+</html>
